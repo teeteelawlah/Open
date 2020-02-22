@@ -1,0 +1,9 @@
+body {
+	background-color: #efefef;
+}
+
+#first-p-tag {
+	font-style: italic;
+	color: #000000;
+	background-color: bisque;
+}
